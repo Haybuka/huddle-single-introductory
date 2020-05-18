@@ -41,7 +41,7 @@ main {
 
 main img {
     grid-column: 2/3;
-    width: 550px;
+    width: 450px;
 }
 
 section {
