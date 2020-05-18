@@ -129,7 +129,7 @@ section button {
     main img {
         grid-column: 2 /12;
         grid-row: 1/2;
-        width: 300px;
+        width: 250px;
     }
 
     section {
